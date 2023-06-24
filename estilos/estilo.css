@@ -1,0 +1,34 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container-productos
+{
+    width: 90%;
+    height: 40%;
+    background-color: #fef7d4;
+    display: flex;
+}
+
+.container-productos img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.container-descuentos
+{
+    width: 90%;
+    height: 40%;
+    display: flex;
+}
+.container-descuentos img
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+/* ------Seccion 2----------*/
